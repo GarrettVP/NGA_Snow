@@ -1,7 +1,3 @@
- #days
-yyyymmddhh
-yyyymmddhh
-
 2018011712
 2017120900
 2014012900
